@@ -1,9 +1,7 @@
 /*
 *program: To add two given numbers
 */
-
 #include<stdio.h>
-
 int main()
 {
     int A,B;
